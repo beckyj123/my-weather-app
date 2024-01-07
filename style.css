@@ -1,0 +1,40 @@
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+.square-button {
+  text-align: center;
+  background-color: #ead7bb;
+  color: #113946;
+  border-radius: 10px;
+  padding: 100px;
+  margin: 100px;
+  line-height: 40px;
+}
+
+h1 {
+  font-size: 36px;
+  color: #113946;
+  text-align: center;
+  padding: 20px;
+}
+
+.search-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.search-results {
+  text-align: center;
+  font-size: 24px;
+  margin-top: 20px;
+  text-transform: capitalize;
+}
+
+.extra-weather-info {
+  font-size: 15px;
+  text-align: left;
+  list-style-type: none;
+  margin: 0 auto;
+}
