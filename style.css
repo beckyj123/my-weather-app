@@ -38,3 +38,7 @@ h1 {
   list-style-type: none;
   margin: 0 auto;
 }
+
+p {
+  text-align: center;
+}
